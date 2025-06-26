@@ -1,6 +1,6 @@
 # Random User Generator
 
-This is a random user generator project built with plain JavaScript. The app lets users generate a new random user from randomuser.me.
+This is a random user generator project built with plain JavaScript. The app lets users generate a new random user from [randomuser.me](https://randomuser.me).
 
 ## Features
 
